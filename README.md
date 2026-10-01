@@ -1,7 +1,7 @@
 # 🌹 D'Rose ("De La Rosa") — Generativo en p5.js
 
 <p align="center">
-  <img src="assets/preview.png" alt="Previsualización del logo D'Rose generado" width="400"/>
+  <img src="assets/d-rose.png" alt="Previsualización del logo D'Rose generado" width="400"/>
 </p>
 
 Generador gráfico interactivo inspirado en el icónico logotipo **D Rose** de adidas. El proyecto combina la silueta geométrica de la letra **D** con pétalos orgánicos en espiral calculados mediante **Ruido Perlin** y deformación radial.
