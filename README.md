@@ -74,3 +74,10 @@ Asegúrate de tener instalado **Bun** en tu sistema:
    - **Bun** — Runtime, gestor de paquetes y ejecutor de tareas.
    - **Vite** — Servidor de desarrollo ultrarrápido y empaquetador frontend.
    - **p5.js** — Librería para programación creativa e interactividad visual.
+
+### Licencia
+
+El logo y los recursos visuales de este proyecto están licenciados bajo
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+© 2026 Denilson De La Rosa.
