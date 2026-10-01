@@ -75,6 +75,8 @@ Asegúrate de tener instalado **Bun** en tu sistema:
    - **Vite** — Servidor de desarrollo ultrarrápido y empaquetador frontend.
    - **p5.js** — Librería para programación creativa e interactividad visual.
 
+---
+
 ### Licencia
 
 El logo y los recursos visuales de este proyecto están licenciados bajo
